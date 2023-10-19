@@ -23,7 +23,7 @@ function Home() {
                 Login to read posts
               </h1>
             </div>
-          </div>
+          </div>  
         </Container>
       </div>
     );
